@@ -1,5 +1,5 @@
 # MSC_EnterpriseIT
-Thhis repository is for all assessments for the MSc in Enterprise IT Management at the University of Essex Online.
+This repository is for all assessments for the MSc in Enterprise IT Management at the University of Essex Online.
 
 ## Module 1: Induction Computing April 2024
 INDM April 2024
