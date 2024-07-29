@@ -13,7 +13,7 @@ From those posts, animation and leadership, application to the real world, and r
 [Discussion Forum](https://www.my-course.co.uk/mod/forum/view.php?id=990721).
 
 ## Assessment 2: Individual Programming Excercise
-## Brief
+### Brief
 For this individual programming exercise you will be comparing programming languages. Your tutor will have already demonstrated a sort algorithm in two different languages during the seminar in Unit 4.
 
 You are required to create a sort algorithm in Python that you can use to sort a provided set of integers. For this, you are provided with a simple python program that implements a basic sort algorithm. You must modify this program, replacing the provided algorithm with another of your choice.
@@ -21,9 +21,9 @@ You are required to create a sort algorithm in Python that you can use to sort a
 In addition to the sort algorithm, you are also provided with a text file, called pidata.txt, that contains over a million individual integers, collected into sets. This is the file you need to process.
 
 ## Assessment 3: Individual Presentaion
-## Brief
+### Brief
 You are tasked with developing a PowerPoint presentation (of up to 10 slides) that reflects on future technology/techniques and learning styles. In addition to your PowerPoint, you should also create a recording of your individual reflection (20 minutes in length) with a transcript.
-## Question
+### Question
 Consider the statement *“Enterprise IT encapsulates ALL the technology trends that will make the greatest impact on Industry in the next five years”*. Identify ONE trend that you feel will have the greatest impact over the next five years.
 
 In describing your chosen trend, you should also explain why you think it will have the most impact and how you think it will impact industry and working life. Your slides should have a strong reflective bias focus with critical insights, considering the effects as opposed to the technical aspects of your chosen trend.
