@@ -18,7 +18,7 @@ LEIM_PCOM7E
 - Discuss various techniques and approaches including the increased use of automation and how digital information is changing the face of Enterprise IT.
 - Review emerging trends in EIT including the effect of Web 3.0, Artificial Intelligence and the increasing risks of Cyber Security threats
 
-## Module 3: Risk and Security Management
+## [Module 3: Risk and Security Management](SRM)
 SRM_PCOM7E
 ### Module Aims
 - Identify and analyse critically security risks, threats and vulnerabilities in information systems, accounting for the current threat landscape.
