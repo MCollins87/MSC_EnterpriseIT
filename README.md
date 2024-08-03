@@ -11,7 +11,7 @@ INDM April 2024
 - Refresh students’ knowledge of referencing and the avoidance of academic dishonesty.
 - Introduce the skills required for successful completion of future modules (including academic writing and research skills).
 
-## Module 2: Launching into Enterprise IT Management April 2024
+## [Module 2: Launching into Enterprise IT Management April 2024](LEIM_PCOM7E)
 LEIM_MCOM7E
 ### Module Aims
 - Review what is meant by EIT and how it differs from business computing and Industry 4/5.0.
