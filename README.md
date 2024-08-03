@@ -1,7 +1,7 @@
 # MSC_EnterpriseIT
 This repository is for all assessments for the MSc in Enterprise IT Management at the University of Essex Online.
 
-## [Module 1: Induction Computing April 2024](INDM April 2024)
+## [Module 1: Induction Computing April 2024](INDM)
 INDM April 2024
 ### Module Aims
 - Provide an introduction to KOL and the University of Essex Online, its virtual learning environment (VLE), Moodle, and the available library resources.
