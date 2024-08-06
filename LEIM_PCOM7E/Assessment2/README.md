@@ -10,3 +10,5 @@ In addition to the sort algorithm, you are also provided with a text file, calle
 Compare and contrast your selected algorithm implemented in Python, the times from your application using the built-in sort of function (if applicable) with the one demonstrated in class written in a compiled language. Which performs the best? Give reasons for your answer, supported by appropriate academic references. 
 
 You should provide a text file that includes all references (presented in the Essex format), plus your discussion of algorithms. This file should be professionally formatted and proofread.
+
+## [Submitted Report](https://github.com/MCollins87/MSC_EnterpriseIT/blob/313751aaf020768ac133a15a1cf97a64ed06bca0/LEIM_PCOM7E/Assessment2/PythonSorting.pdf)
