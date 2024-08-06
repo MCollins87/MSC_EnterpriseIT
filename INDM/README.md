@@ -20,4 +20,4 @@ Your paper should:
 - Consider how taking on this postgraduate degree might affect the field and society at large.  Include your expectations from completing the course.
 You should also provide a list of references that support your work.
 
-### [Sumbitted report](INDM/ImportanceOfPostgradDegree.pdf)
+### [Sumbitted report]
