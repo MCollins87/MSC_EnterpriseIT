@@ -18,9 +18,13 @@ Alternatively Yucel (2018) identifies the following types of risk:
 -	Culture related
 -	Technology related
 -	Implementation related
+
 Many of the risks identified within the types listed in Yucel (2018) can be re-categorised into the six defined by Kovaitė & Stankevičienė (2019). For example, Yucel (2018) identifies “*Lack of management understanding of the digital economy and digital disruption in the early development phase*” can be mapped to “*Acceptance by customers and partners*” identified by Kovaitė & Stankevičienė (2019). Likewise, Yucel (2018) identified  “*Skill set: Not having the right skillset during the transformation and/or for operations thereafter. Talent deficit is a risk as digital transformations require new talent, including software engineers, product managers, DevOps engineers, data scientists and artificial intelligence professionals*” as an implementation related risk, but is clearly a competence risk. 
+
 While Kovaitė & Stankevičienė (2019) provide a method of assessing risk related to digital transformation, their approach requires an expert assessment, which may not always be available to a small to medium enterprise (SME). The list of explicit risks identified in Yucel (2018) make a qualitative approach to assessing digital transformation risks more accessible to SME’s. 
+
 **Word count:** 379
+
 ### References:
 * Culot, G., Nassimbeni, G., Orzes, G., & Sartor, M. (2020) Behind the definition of Industry 4.0: Analysis and open questions. *International Journal of Production Economics*, 226(August 2018). DOI: [https://doi.org/10.1016/j.ijpe.2020.107617](https://doi.org/10.1016/j.ijpe.2020.107617)
 * Kovaitė, K., & Stankevičienė, J. (2019) 'Risks of digitalisation of business models', *Contemporary Issues in Business, Mangement and Economic Engineering*. Vilnius Gediminas Technical University, Lithuania, 9 - 10 May 2019. DOI: [https://doi.org/10.3846/cibmee.2019.039](https://doi.org/10.3846/cibmee.2019.039)
