@@ -14,4 +14,3 @@ You should provide a text file that includes all references (presented in the Es
 ## Submissions
 * [GitHub Repository](https://github.com/MCollins87/MSC_EnterpriseIT/tree/main/LEIM_PCOM7E/Assessment2)
 * [Report](https://github.com/MCollins87/MSC_EnterpriseIT/raw/main/LEIM_PCOM7E/Assessment2/PythonSorting.pdf)
-* [Python Script](LEIM_PCOM7E/Assessment2/mergesort.py)
