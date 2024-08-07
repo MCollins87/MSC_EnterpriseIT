@@ -12,7 +12,7 @@ From those posts, animation and leadership, application to the real world, and r
 
 [Discussion Forum](https://www.my-course.co.uk/mod/forum/view.php?id=990721).
 
-## [Assessment 2: Individual Programming Excercise](MSC_EnterpriseIT/LEIM_PCOM7E/Assessmemt2)
+## [Assessment 2: Individual Programming Excercise](Assessmemt2)
 ### Brief
 For this individual programming exercise you will be comparing programming languages. Your tutor will have already demonstrated a sort algorithm in two different languages during the seminar in Unit 4.
 
@@ -20,7 +20,7 @@ You are required to create a sort algorithm in Python that you can use to sort a
 
 In addition to the sort algorithm, you are also provided with a text file, called pidata.txt, that contains over a million individual integers, collected into sets. This is the file you need to process.
 
-## [Assessment 3: Individual Presentaion](LEIM_PCOM7E/Assessment3)
+## [Assessment 3: Individual Presentaion](Assessment3)
 ### Brief
 You are tasked with developing a PowerPoint presentation (of up to 10 slides) that reflects on future technology/techniques and learning styles. In addition to your PowerPoint, you should also create a recording of your individual reflection (20 minutes in length) with a transcript.
 ### Question
