@@ -12,7 +12,7 @@ From those posts, animation and leadership, application to the real world, and r
 
 [Discussion Forum](https://www.my-course.co.uk/mod/forum/view.php?id=990721).
 
-## [Assessment 2: Individual Programming Excercise]([LEIM_PCOM7E/Assessment2](https://github.com/MCollins87/MSC_EnterpriseIT/tree/73948bb57a745e76b91163684963c15356b82363/LEIM_PCOM7E/Assessment2))
+## [Assessment 2: Individual Programming Excercise](MSC_EnterpriseIT/LEIM_PCOM7E/Assessmemt2)
 ### Brief
 For this individual programming exercise you will be comparing programming languages. Your tutor will have already demonstrated a sort algorithm in two different languages during the seminar in Unit 4.
 
