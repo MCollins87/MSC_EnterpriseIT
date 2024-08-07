@@ -12,7 +12,7 @@ From those posts, animation and leadership, application to the real world, and r
 
 [Discussion Forum](https://www.my-course.co.uk/mod/forum/view.php?id=990721).
 
-## [Assessment 2: Individual Programming Excercise](Assessmemt2)
+## [Assessment 2: Individual Programming Excercise](Assessment2)
 ### Brief
 For this individual programming exercise you will be comparing programming languages. Your tutor will have already demonstrated a sort algorithm in two different languages during the seminar in Unit 4.
 
