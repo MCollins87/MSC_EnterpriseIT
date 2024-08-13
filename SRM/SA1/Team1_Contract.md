@@ -1,6 +1,6 @@
 **Team Contract**
 
-Team Name: <u>\_\_\_\_\_\_Team 1\_\_\_\_\_\_\_\_\_\_\_\_\_</u>
+Team Name: <u>Team 1</u>
 
 <table>
 <colgroup>
