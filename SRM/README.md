@@ -7,6 +7,9 @@ Based on your reading of the case study(Kovaitė and Stankevičienė, 2019) answ
 - Give two real-world examples of risks that fit into the authors categories.
 - Find another journal article that either supports or contradicts the points made in the cited study.
 
+## [Summative Assessment 1: Development Team Project: Risk Identification Report](SA1)
+For this submission, your team are tasked with carrying out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business. Which would you recommend, taking both assessments into account? Produce a risk identification report with your responses to these questions.
+
 
 ## Module Reflections:
 - Reading Spears & Barki (2010), they expand on user participation used in System Design to apply to risk management.
