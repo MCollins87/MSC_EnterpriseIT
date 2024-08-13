@@ -3,6 +3,9 @@
 ## Project Brief
 This assignment has two components, the team submission, and your individual peer assessment. All components must be submitted by end of unit 6. This assessment accounts for 20% of your final module mark. **Only one submission is required from each team with a limit of 2 pages (1000 words) for the report. All artefacts produced as part of this submission should be stored in your e-portfolio, due for submission in Unit 12.**  
 
+### Team Meetings
+- [2024-08-12](Meetings/2024-08-12.md)
+
 #### Assignment Brief
 
 Pampered pets are a bricks-and-mortar business, based in a leafy suburb of Hashington-on-the-Water. It employs 4 staff; Alice the owner/ manager; Cathy the shop manager; Andrea the store assistant and Harry the warehouse manager. 90% of their business is carried out face to face, with people coming into the store to buy items. A small percentage of clients will email their orders – once these are ready the staff email the clients who then travel to the store to pick up goods and pay. Recently Harry has started to use an old, networked computer (with a spreadsheet package) to keep track of warehouse deliveries and item locations. The front desk uses a computer for all sales and purchases so that transactions are recorded digitally – this makes VAT and Tax submissions easier. The main shop has a wireless gateway and hub that both computers are connected to. In addition, all the staff use the wireless connection for various apps on their smart phones.
