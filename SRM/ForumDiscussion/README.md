@@ -22,5 +22,7 @@ You should demonstrate that you understand the topic covered and ensure you use 
 
 ## Discussions
  [Initial Post and Summary Post](./MyPost.md)
- [Peer Response 1]()
- [Peer Response 2]()
+ 
+ [Peer Response 1](./Stephanie.md)
+ 
+ [Peer Response 2](./Tobias.md)
