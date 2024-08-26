@@ -1,31 +1,26 @@
-## Initial Post
-In their discussion on the risks of digitalisation, Kovaitė & Stankevičienė (2019) mention the concept of Industry 4.0, without providing a concrete definition. The ambiguity over the definition of Industry 4.0 opens a new area of research, discussing definitions (Culot et al., 2020). Industry 4.0 has numerous synonyms, such as “smart manufacturing”, “internet of things”, “digital transformation” and “fourth industrial revolution” (Culot et al., 2020).
-Whilst these terms have been used to refer to Industry 4.0, they are not synonymous of each other. For example, digital transformation does not necessarily imply connectivity required for internet of things. 
-Kovaitė & Stankevičienė (2019) appear to be using a narrow definition of Industry 4.0 to mean Digital Transformation, or “Digitalisation”. To this end, they propose a novel risk assessment matrix to be used when assessing digital transformation (RADi). They also define six key types of risk a business is exposed to during digitalisation of an existing business model: 
--	Technical
--	Competence
--	Acceptance by staff
--	Acceptance by customers and partners
--	Data privacy and security 
--	Financial risks
-  
-Alternatively Yucel (2018) identifies the following types of risk:
+# Collaborative Learning Discussion 1
+## Brief:
+This discussion will last for 3 weeks covering units 1, 2 and 3. Ensure you include appropriate citations and references in all your posts (this is not included in the word count for each week's post/submission).
 
--	Business case related
--	Business Challenges
--	Strategy related
--	Support and sponsorship related
--	Culture related
--	Technology related
--	Implementation related
+### Discussion Topic
+Based on your reading of the case study(Kovaitė and Stankevičienė, 2019) answer the following questions in the discussion forum:
 
-Many of the risks identified within the types listed in Yucel (2018) can be re-categorised into the six defined by Kovaitė & Stankevičienė (2019). For example, Yucel (2018) identifies “*Lack of management understanding of the digital economy and digital disruption in the early development phase*” can be mapped to “*Acceptance by customers and partners*” identified by Kovaitė & Stankevičienė (2019). Likewise, Yucel (2018) identified  “*Skill set: Not having the right skillset during the transformation and/or for operations thereafter. Talent deficit is a risk as digital transformations require new talent, including software engineers, product managers, DevOps engineers, data scientists and artificial intelligence professionals*” as an implementation related risk, but is clearly a competence risk. 
+- What do the authors mean by the term ‘Industry 4.0’ - give two examples.
+- Give two real-world examples of risks that fit into the authors categories.
+- Find another journal article that either supports or contradicts the points made in the cited study.
+- 
+### Instructions
+You should demonstrate that you understand the topic covered and ensure you use references to academic literature (including journals, books, and reports). This activity will provide evidence of your personal growth and is a component of the e-portfolio, which you will submit at the end of the module.
 
-While Kovaitė & Stankevičienė (2019) provide a method of assessing risk related to digital transformation, their approach requires an expert assessment, which may not always be available to a small to medium enterprise (SME). The list of explicit risks identified in Yucel (2018) make a qualitative approach to assessing digital transformation risks more accessible to SME’s. 
+### Discussion Guidance
+- Your initial posting should respond to the question and be at least 200 words long.  This should be labelled as **'Initial Post'**
+- You will then respond to at least 2 of your peers' posts in unit 2 (each labelled as **'Peer Response'**).  To guide your responses, look at the guidelines for the peer review process on the Department’s homepage. Focus on the possible measures that could have been put in place in order to prevent the incidents highlighted by your peers.  Please try to limit your response posts to **200-300 words maximum**, so that others may be encouraged to reflect on, and respond to your ideas. 
+- In Unit 3, you should provide a summary post based on your initial post, the feedback from your peers and the content of the three units. Please label this as **‘Summary Post’**. It should be **300 words**.
+- Referencing: When you have referred to other authors thoughts, ideas and opinions in your posts, you must reference the author as you would in an academic assignment using the UoEO Harvard reference style.
+- You will be not be assessed on your contribution to this forum throughout the module, but the tutor will post group feedback via a module announcement.
+- This activity forms a component of your e-portfolio which you will submit in unit 12. All e-portfolio activities are intended to demonstrate your ability and strengths through evidence and reflection.
 
-**Word count:** 379
-
-### References:
-* Culot, G., Nassimbeni, G., Orzes, G., & Sartor, M. (2020) Behind the definition of Industry 4.0: Analysis and open questions. *International Journal of Production Economics*, 226(August 2018). DOI: [https://doi.org/10.1016/j.ijpe.2020.107617](https://doi.org/10.1016/j.ijpe.2020.107617)
-* Kovaitė, K., & Stankevičienė, J. (2019) 'Risks of digitalisation of business models', *Contemporary Issues in Business, Mangement and Economic Engineering*. Vilnius Gediminas Technical University, Lithuania, 9 - 10 May 2019. DOI: [https://doi.org/10.3846/cibmee.2019.039](https://doi.org/10.3846/cibmee.2019.039)
-* Yucel, S. (2018) 'Estimating the benefits, drawbacks and risk of digital transformation strategy'. *Proceedings - 2018 International Conference on Computational Science and Computational Intelligence, (CSCI 2018)*. Las Vegas, NV, USA. 12-14 December 2018. IEEE. 233–238. DOI: [https://doi.org/10.1109/CSCI46756.2018.00051](https://doi.org/10.1109/CSCI46756.2018.00051)
+## Discussions
+ [Initial Post and Summary Post]()
+ [Peer Response 1]()
+ [Peer Response 2]()
