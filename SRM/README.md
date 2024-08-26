@@ -1,14 +1,12 @@
 # Security and Risk Management
 
-## [Formative Asessment: Collaborative Learning Discussion 1](FA1)
-### Brief
-Based on your reading of the case study(Kovaitė and Stankevičienė, 2019) answer the following questions in the discussion forum:
-- What do the authors mean by the term ‘Industry 4.0’ - give two examples.
-- Give two real-world examples of risks that fit into the authors categories.
-- Find another journal article that either supports or contradicts the points made in the cited study.
-
-## [Summative Assessment 1: Development Team Project: Risk Identification Report](SA1)
+## Summative Assignments
+### [Development Team Project: Risk Identification Report](TeamProject)
 For this submission, your team are tasked with carrying out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business. Which would you recommend, taking both assessments into account? Produce a risk identification report with your responses to these questions.
+
+## Formative Assignments
+### [Collaborative Learning Discussion](ForumDiscussion)
+### [Threat Modelling Exercise](ModellingExcercise)
 
 
 ## Module Reflections:
