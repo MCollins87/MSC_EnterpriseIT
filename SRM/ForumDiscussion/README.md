@@ -8,7 +8,7 @@ Based on your reading of the case study(Kovaitė and Stankevičienė, 2019) answ
 - What do the authors mean by the term ‘Industry 4.0’ - give two examples.
 - Give two real-world examples of risks that fit into the authors categories.
 - Find another journal article that either supports or contradicts the points made in the cited study.
-- 
+
 ### Instructions
 You should demonstrate that you understand the topic covered and ensure you use references to academic literature (including journals, books, and reports). This activity will provide evidence of your personal growth and is a component of the e-portfolio, which you will submit at the end of the module.
 
@@ -21,6 +21,6 @@ You should demonstrate that you understand the topic covered and ensure you use 
 - This activity forms a component of your e-portfolio which you will submit in unit 12. All e-portfolio activities are intended to demonstrate your ability and strengths through evidence and reflection.
 
 ## Discussions
- [Initial Post and Summary Post]()
+ [Initial Post and Summary Post](./MyPost.md)
  [Peer Response 1]()
  [Peer Response 2]()
