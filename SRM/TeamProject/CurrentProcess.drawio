@@ -43,20 +43,24 @@
         <mxCell id="nAV7N8kcsuwW0Dx3YQH4-5" value="Physical Customer" style="swimlane;html=1;startSize=20;horizontal=0;" parent="nAV7N8kcsuwW0Dx3YQH4-3" vertex="1">
           <mxGeometry x="20" y="250" width="1170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nAV7N8kcsuwW0Dx3YQH4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nAV7N8kcsuwW0Dx3YQH4-5" source="nAV7N8kcsuwW0Dx3YQH4-17" target="nAV7N8kcsuwW0Dx3YQH4-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nAV7N8kcsuwW0Dx3YQH4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="nAV7N8kcsuwW0Dx3YQH4-5" source="nAV7N8kcsuwW0Dx3YQH4-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nAV7N8kcsuwW0Dx3YQH4-17" value="Enters Shop" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" parent="nAV7N8kcsuwW0Dx3YQH4-5" vertex="1">
           <mxGeometry x="60" y="20" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nAV7N8kcsuwW0Dx3YQH4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nAV7N8kcsuwW0Dx3YQH4-5" source="nAV7N8kcsuwW0Dx3YQH4-18" target="nAV7N8kcsuwW0Dx3YQH4-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nAV7N8kcsuwW0Dx3YQH4-18" value="Selects Product" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=user;" parent="nAV7N8kcsuwW0Dx3YQH4-5" vertex="1">
-          <mxGeometry x="220" y="20" width="120" height="80" as="geometry" />
+        <mxCell id="nAV7N8kcsuwW0Dx3YQH4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="nAV7N8kcsuwW0Dx3YQH4-5" source="SBzbPNk9sXwYiPS3Y7Vp-2" target="nAV7N8kcsuwW0Dx3YQH4-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="60" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nAV7N8kcsuwW0Dx3YQH4-20" value="Purchase Made" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;bpmnShapeType=transaction;" parent="nAV7N8kcsuwW0Dx3YQH4-5" vertex="1">
           <mxGeometry x="380" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SBzbPNk9sXwYiPS3Y7Vp-2" value="Product selection" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="nAV7N8kcsuwW0Dx3YQH4-5">
+          <mxGeometry x="224" y="10" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nAV7N8kcsuwW0Dx3YQH4-6" value="Online Customer" style="swimlane;html=1;startSize=20;horizontal=0;" parent="nAV7N8kcsuwW0Dx3YQH4-3" vertex="1">
           <mxGeometry x="20" y="370" width="1170" height="150" as="geometry">
