@@ -12,4 +12,4 @@ You should use the Threat modelling Manifesto, the OWASP Threat modelling Cookbo
 ## Chosen scenario
 **A large nuclear power station in France**
 
-![Threat model attack tree for Nuclear Power Station](./Assets/AttackTree.png "Threat model attack tree for Nuclear Power Station")
+![Threat model attack tree for Nuclear Power Station](./Assets/AttackTree2.png "Threat model attack tree for Nuclear Power Station")
