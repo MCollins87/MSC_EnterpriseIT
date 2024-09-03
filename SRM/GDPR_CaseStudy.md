@@ -1,4 +1,4 @@
-[Return to module](README.md)
+[Back to SRM Module](./README.md)
 
 # GDPR Case Study
 
