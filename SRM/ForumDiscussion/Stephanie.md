@@ -1,3 +1,4 @@
+[Back to overview](./README.md)
 # Initial Post by Stephanie Irina
 The concept of Industry 4.0, as discussed by Kovaitė and Stankevičienė (2019), refers to a new phase of the industrial revolution that integrates advanced digital technologies into manufacturing and business processes. This revolution builds upon the previous digital revolution by incorporating advanced technologies such as the Internet of Things (IoT), big data, cloud computing, artificial intelligence, and robotics to create a smart, interconnected, and highly automated industrial environment.
 
