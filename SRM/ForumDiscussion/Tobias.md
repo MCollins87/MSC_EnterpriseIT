@@ -1,3 +1,4 @@
+[Back to overview](./README.md)
 # Initial Post By Tobias Zeier
 In their paper Risk of Digitalisation of Business Models, Kovaitė & Stankevičienė (2019) created a risk assessment matrix to assess potential risks, resulting from digitalisation of business models in the context of Industry 4.0, which they refer to as follows.
 
