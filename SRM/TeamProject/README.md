@@ -16,7 +16,7 @@ This assignment has two components, the team submission, and your individual pee
 - [Final Report]
 
 ### Additional Articless (Click to download):
-[Current Process Risk Assessment, Nelson Akaffou](https://github.com/MCollins87/MSC_EnterpriseIT/raw/main/SRM/TeamProject/Risk%20Assessment%20for%20Current%20Business.docx)
-[Current Process Mitigation, David Abiodun](https://github.com/MCollins87/MSC_EnterpriseIT/raw/main/SRM/TeamProject/Mitigation%20Analysis%20Report.docx)
-[Digitalisation Riak Assessment, Stephanie Irina](https://github.com/MCollins87/MSC_EnterpriseIT/raw/main/SRM/TeamProject/Risk%20Assessment%20for%20Digital%20process%20Report.docx)
-[Digitalisation Mitigation, Ilyas Demirtas](https://github.com/MCollins87/MSC_EnterpriseIT/raw/main/SRM/TeamProject/Mitigation%20Strategies%20for%20Identified%20Risks.docx)
+- [Current Process Risk Assessment, Nelson Akaffou](Risk Assessment for Current Business.docx)
+- [Current Process Mitigation, David Abiodun](SRM/TeamProject/Mitigation Analysis Report.docx)
+- [Digitalisation Riak Assessment, Stephanie Irina](Risk Assessment for Digital process Report.docxx)
+- [Digitalisation Mitigation, Ilyas Demirtas](SRM/TeamProject/Mitigation Strategies for Identified Risks.docx)
