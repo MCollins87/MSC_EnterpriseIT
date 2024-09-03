@@ -7,6 +7,7 @@ For this submission, your team are tasked with carrying out a risk assessment, e
 
 ## Formative Assignments
 ### [Collaborative Learning Discussion](ForumDiscussion)
+### [User Participation in Risk Management](Unit2Seminar.md)
 ### [Threat Modelling Exercise](ModellingExcercise)
 
 
