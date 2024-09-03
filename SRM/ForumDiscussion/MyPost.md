@@ -1,3 +1,4 @@
+[Back to overview](./README.md)
 # Initial Post
 In their discussion on the risks of digitalisation, Kovaitė & Stankevičienė (2019) mention the concept of Industry 4.0, without providing a concrete definition. The ambiguity over the definition of Industry 4.0 opens a new area of research, discussing definitions (Culot et al., 2020). Industry 4.0 has numerous synonyms, such as “smart manufacturing”, “internet of things”, “digital transformation” and “fourth industrial revolution” (Culot et al., 2020).
 Whilst these terms have been used to refer to Industry 4.0, they are not synonymous of each other. For example, digital transformation does not necessarily imply connectivity required for internet of things. 
