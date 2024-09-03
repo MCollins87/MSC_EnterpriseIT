@@ -1,3 +1,4 @@
+[Back to SRM module](../)
 # Collaborative Learning Discussion 1
 ## Brief:
 This discussion will last for 3 weeks covering units 1, 2 and 3. Ensure you include appropriate citations and references in all your posts (this is not included in the word count for each week's post/submission).
