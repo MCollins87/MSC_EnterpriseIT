@@ -9,6 +9,7 @@ For this submission, your team are tasked with carrying out a risk assessment, e
 ### [Collaborative Learning Discussion](ForumDiscussion)
 ### [User Participation in Risk Management](Unit2Seminar.md)
 ### [Threat Modelling Exercise](ModellingExcercise)
+### [GDPR Case Study](GDPR_CaseStudy.md)
 
 
 ## Module Reflections:
