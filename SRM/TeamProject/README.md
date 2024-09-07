@@ -13,7 +13,7 @@ This assignment has two components, the team submission, and your individual pee
 
 ### Documents:
 - [Contract](Team1_Contract.md)
-- [Final Report]
+- [Final Report](./PamperedPetsReport_FINAL.docx)
 
 ### Additional Articless (Click to download):
 - [Current Process Risk Assessment, Nelson Akaffou](./RiskAssessmentforCurrentBusiness.docx)
