@@ -14,4 +14,4 @@
 
 The supermarket pays $1.00 for each copy of *People* and sells it for $1.95. Each unsold copy can be returned for $0.50. How many copies of *People* should the store order?
 
-[Answers](./MonteCarloExercise.xlsx)
+[Answers](https://github.com/MCollins87/MSC_EnterpriseIT/raw/refs/heads/main/SRM/RiskModelling/MonteCarloExercise.xlsx)
