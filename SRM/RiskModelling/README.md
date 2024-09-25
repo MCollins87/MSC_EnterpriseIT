@@ -19,6 +19,6 @@ The supermarket pays $1.00 for each copy of *People* and sells it for $1.95. Eac
 
 ## 2. Excercises from [Think Bayes 2 by Allen Downey](https://allendowney.github.io/ThinkBayes2/)
 
-[Chapter 1](./chap01.ipynb)
+[Chapter 1](chap01.html)
 
 [Chapter 2](./chap02.ipynb)
