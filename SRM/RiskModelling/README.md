@@ -21,4 +21,4 @@ The supermarket pays $1.00 for each copy of *People* and sells it for $1.95. Eac
 
 [Chapter 1](chap01.md)
 
-[Chapter 2](./chap02.ipynb)
+[Chapter 2](chap02.md)
