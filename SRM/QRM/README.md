@@ -20,6 +20,8 @@
 ### Output
 The output from YASAI showed that the best highest profits come from a ROP of 100 and a Q of 130:
 
-![tabular output from YASAI](./Assets/YASAI_Out_T.png)
+   ![tabular output from YASAI](./Assets/YASAI_Out_T.png)
 
-[^1] Olson, D. and Wu, D. (2020) *Enterprise Risk Management Models*. 3rd Edition. Berlin: Springer Nature. Available via the Vitalsource Bookshelf. [Accessed 26 May 2024]. [DOI: https://doi.org/10.1007/978-3-662-60608-7_5](https://doi.org/10.1007/978-3-662-60608-7_5)
+#### [Spreadsheet](./Assets/MC_YASAI.xlsx)
+
+[^1]: Olson, D. and Wu, D. (2020) *Enterprise Risk Management Models*. 3rd Edition. Berlin: Springer Nature. Available via the Vitalsource Bookshelf. [Accessed 26 May 2024]. [DOI: https://doi.org/10.1007/978-3-662-60608-7_5](https://doi.org/10.1007/978-3-662-60608-7_5)
