@@ -11,6 +11,7 @@ For this submission, your team are tasked with carrying out a risk assessment, e
 ### [Threat Modelling Exercise](ModellingExcercise)
 ### [GDPR Case Study](GDPR_CaseStudy.md)
 ### [Rsk Modelling](RiskModelling)
+### [Quantitative Risk Modeling Excercise](QRM)
 
 
 ## Module Reflections:
