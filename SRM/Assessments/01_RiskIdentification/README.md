@@ -1,4 +1,4 @@
-[Back to SRM Module](../)
+[Back to SRM Module](../../README.md)
 # Summative Assessment 1
 
 ## Project Brief
