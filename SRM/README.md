@@ -12,7 +12,7 @@
 
 ## Summative Assignments
 1. [Development Team Project: Risk Identification Report](./Assesments/01_RiskIdentification/README.md)
-2. [Individual Project: Executive Summary](./Assesments/02_ExecSummary/)
+2. [Individual Project: Executive Summary](./Assessments/02_ExecSummary/README.md)
 3. [Module Reflection](./Assessments/03_Reflection/Reflection.md)
 
 ## Formative Assignments
