@@ -1,28 +1,26 @@
 [Back to MSc Enterprise IT](../)
 # Security and Risk Management
+**Dates:**2024-07-30 - 2024-10-21
+**Module Tutor:** Doug Millward
+
+## Module learning outcomes
+- Discuss the difference between qualitative and quantitative risk assessments.
+- Describe how to carry out both kinds of assessments.
+- Explain what is meant by and how to create threat models.
+- Demonstrate how to create quantitative risk models.
+- Discuss and design DR solutions.
 
 ## Summative Assignments
-### [Development Team Project: Risk Identification Report](TeamProject)
-For this submission, your team are tasked with carrying out a risk assessment, evaluating the risks of both the effects of the digitalisation process and of the alternative of maintaining the status quo to the business. Which would you recommend, taking both assessments into account? Produce a risk identification report with your responses to these questions.
+1. [Development Team Project: Risk Identification Report](./Assesments/01_RiskIdentification/README.md)
+2. [Individual Project: Executive Summary](./Assesments/02_ExecSummary/)
+3. [Module Reflection](./Assessments/Reflection.md)
 
 ## Formative Assignments
-### [Collaborative Learning Discussion](ForumDiscussion)
-### [User Participation in Risk Management](Unit2Seminar.md)
-### [Threat Modelling Exercise](ModellingExcercise)
-### [GDPR Case Study](GDPR_CaseStudy.md)
-### [Rsk Modelling](RiskModelling)
-### [Quantitative Risk Modeling Excercise](QRM)
+- [**Units 01 - 03:** Collaborative Learning Discussion 1](./ColabDiscus1.md)
+- [**Unit 02:** Seminar - User Participation in Risk Management](./Unit02/Seminar_UserParticipationRM.md)
+- [**Unit 04:** Seminar - Threat Modelling Excercise](./Unit04/Seminar_ThreatModelling.md)
+- [**Unit 05:** GPDR Case Study](./Unit05/GDPR_CaseStudy.md)
+- [**Units 07 - 09:** Collaborative Learning Discussion 2](./ColabDiscus2.md)
+- [**Unit 08:** Seminar - Quantitative Risk Modelling](./Unit08/QuantitativeRiskModelling.md)
+- [**Unit 12:** Seminar - The Great Debate](./Unit12/FutureSecurity.pptx)
 
-
-## Module Reflections:
-- Reading Spears & Barki (2010), they expand on user participation used in System Design to apply to risk management.
-  - Involvong users in design of systems and security and the expected benefits, is how I have always viewed good and effective stakeholder management.
-  - Keep your stakeholders involved and enagged, and they will have a sence of ownership of product, resulting in greater uptake and addoption of change.
-
-- Unit 1 lecture cast introduced three control measures for risk management:
-1. Physical Controls
-2. Procedural Controls
-3. Technical Controls
-- This contrasts to my traditional view of two methods:
-1. Procedural controls (what people do)
-2. Engineering controls (Physical Barriers / fail-safe)
