@@ -13,7 +13,7 @@
 ## Summative Assignments
 1. [Development Team Project: Risk Identification Report](./Assesments/01_RiskIdentification/README.md)
 2. [Individual Project: Executive Summary](./Assesments/02_ExecSummary/)
-3. [Module Reflection](./Assessments/Reflection.md)
+3. [Module Reflection](./Assessments/03_Reflection/Reflection.md)
 
 ## Formative Assignments
 - [**Units 01 - 03:** Collaborative Learning Discussion 1](./ColabDiscus1.md)
