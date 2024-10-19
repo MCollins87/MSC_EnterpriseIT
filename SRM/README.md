@@ -22,5 +22,5 @@
 - [**Unit 05:** GPDR Case Study](./Unit05/GDPR_CaseStudy.md)
 - [**Units 07 - 09:** Collaborative Learning Discussion 2](./ColabDiscus2.md)
 - [**Unit 08:** Seminar - Quantitative Risk Modelling](./Unit08/QuantitativeRiskModelling.md)
-- [**Unit 12:** Seminar - The Great Debate](./Unit12/FutureSecurity.pptx)
+- [**Unit 12:** Seminar - The Great Debate](./Unit12/README.md)
 
