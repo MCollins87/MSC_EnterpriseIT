@@ -170,11 +170,11 @@ In addition, to the multi-cloud solution, each cloud provider can be configured 
 
 The proposed architecture is shown in Figure 4. Here the two “front-end” cloud providers are Microsoft Azure, and Amazon Web Services (AWS), with the shared database hosted by IBM.
 
-**![](./Assets/Fig4.png)**
+![](./Assets/Fig4.png)
 
 Figure : Shared responsibility for cloud platforms
 
-![](./Assets/HADR.svg)
+![](./Assets/HADR.png)
 
 Figure : Proposed High Availability, multi-cloud solution.
 
