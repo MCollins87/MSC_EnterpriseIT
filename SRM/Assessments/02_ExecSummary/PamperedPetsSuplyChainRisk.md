@@ -174,7 +174,7 @@ The proposed architecture is shown in Figure 4. Here the two “front-end” clo
 
 Figure : Shared responsibility for cloud platforms
 
-![](./Assets/HADR)
+![](./Assets/HADR.svg)
 
 Figure : Proposed High Availability, multi-cloud solution.
 
