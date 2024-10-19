@@ -1,5 +1,6 @@
 [Back to Project](./README.md)
-**Team Contract**
+
+# Team Contract
 
 [Click here for word version](./Team1Contract.docx)
 
