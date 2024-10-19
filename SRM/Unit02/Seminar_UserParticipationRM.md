@@ -1,4 +1,4 @@
-[Back to SRM Module](./README.md)
+[Back to SRM Module](../README.md)
 
 # User Participation in Risk Management
 
