@@ -7,8 +7,8 @@ This assignment has two components, the team submission, and your individual pee
 ### [Assignment Brief](Brief.md)
 
 ### Team Roles
-| Role             | Responsibility                                              | Team member |    
-| ---------------- | ----------------------------------------------------------- | ----------- | 
+| Role | Responsibility  | Team member |    
+| --- | --- | --- | 
 |Member 1| Team co-ordinator and Market Research Analyst| Mark Collins (MC)|   
 |Member 2| Mitigation Analyst and Reviewer for Current Activity| David Abiodun (DA)|   
 |Member 3| Analyst for Digitization Risks| Stephanie Irina (SI)| 
