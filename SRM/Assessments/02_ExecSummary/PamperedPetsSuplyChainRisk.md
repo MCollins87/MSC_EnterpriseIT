@@ -1,12 +1,9 @@
+[Back to Assignment](./README.md)
 # Pampered Pets Supply Chain risks and e-commerce mitigations
 
 **Mark Collins** *MC24952@essex.ac.uk*
 
 **Word Count:** 1804
-
-Mark Collins [MC24952@essex.ac.uk](mailto:MC24952@essex.ac.uk)
-
-**Word Count: 1804**
 
 ## Executive Summary
 

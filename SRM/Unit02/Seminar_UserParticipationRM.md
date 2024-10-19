@@ -2,6 +2,19 @@
 
 # User Participation in Risk Management
 
+## Brief
+Read the Spears & Barki (2010) article then prepare answers to the following questions:
+
+* How did the authors use both Qualitative and Quantitative assessment approaches? What benefits did each approach yield?
+* What do the authors list as the advantages of involving users in the risk management process?
+* Based on the findings of the research,
+  * How will the lack of user access affect the risk assessment you will carry out as part of your assessment?
+  * Will it affect the choice of Qualitative vs. Quantitative assessment methods you utilise?
+  * How might you mitigate any issues encountered?
+
+You should demonstrate that you understand the topic covered and ensure you use references to academic literature (including journals, books, and reports). This activity will provide evidence of your personal growth and is a component of the e-portfolio, which you can submit at the end of the module.
+
+## Activity
 - Spears, J., & Barki, H. (2010) User Participation in Information Systems Security Risk Management. *MIS Quarterly* 34(3): 503-522
 
 Spears & Barki (2010) examined user participation in risk management of information systems. They also looked at **Qualitative** and **Quantitative** methods of risk assessments. 
