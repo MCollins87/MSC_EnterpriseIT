@@ -7,13 +7,14 @@ This assignment has two components, the team submission, and your individual pee
 ### [Assignment Brief](Brief.md)
 
 ### Team Roles
-| Role | Responsibility  | Team member |    
-| --- | --- | --- | 
-|Member 1| Team co-ordinator and Market Research Analyst| Mark Collins (MC)|   
-|Member 2| Mitigation Analyst and Reviewer for Current Activity| David Abiodun (DA)|   
-|Member 3| Analyst for Digitization Risks| Stephanie Irina (SI)| 
-|Member 4| Mitigation analyst and Comparative Analyst for Digitization| Ilyas Demirtas (ID)|
-|Menber 5| Current Activity Risks Analysit| Nelson Akaffou (NA)|
+| Role | Responsibility  | Team member |
+|---|---|---|
+| Member 1 | Team co-ordinator and Market Research Analyst | Mark Collins (MC) |
+| Member 2 | Mitigation Analyst and Reviewer for Current Activity | David Abiodun (DA)|
+| Member 3 | Analyst for Digitization Risks | Stephanie Irina (SI) |
+| Member 4 | Mitigation analyst and Comparative Analyst for Digitization | Ilyas Demirtas (ID) |
+| Menber 5 | Current Activity Risks Analysit | Nelson Akaffou (NA) |
+
 
 ### Team Meetings:
 - [2024-08-12](Meetings/2024-08-12.md)
