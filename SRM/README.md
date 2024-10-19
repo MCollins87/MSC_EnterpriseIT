@@ -1,4 +1,4 @@
-[Back to MSc Enterprise IT](../)
+[Back to MSc Enterprise IT](../README.md)
 # Security and Risk Management
 **Dates:** 2024-07-30 - 2024-10-21
 **Module Tutor:** Doug Millward

@@ -1,7 +1,7 @@
-
+[Back to Module](../../README.md)
 # Summative Assessment 2
 
-[Pampered Pets Suply Chain Risks](./PamperedPetsSuplyChainRisk.md) [Word](./PamperedPetsSupplyChainRisks.docx) [PDF](./PamperedPetsSupplyChainRisks.pdf)
+### [Pampered Pets Suply Chain Risks](./PamperedPetsSuplyChainRisk.md) [Word](./PamperedPetsSupplyChainRisks.docx) [PDF](./PamperedPetsSupplyChainRisks.pdf)
 
 ## Assignment Brief
 Cathy has decided to start the digitalisation process. In addition to the changes you recommended, she has decided to add an international supply chain and a number of automated warehouses worldwide. The changes immediately attract the attention of two very high-profile new customers – HRH the King and Prince Albert 2nd of Monaco. However, both are concerned about the effect of these digitalisation changes on the world-famous quality of the products and the security of the supply chain.
