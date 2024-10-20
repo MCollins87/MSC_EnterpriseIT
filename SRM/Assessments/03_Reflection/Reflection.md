@@ -1,12 +1,14 @@
 [Back to Module](../../README.md)
 # Reflection of Module *Security and Risk Management*
 
-**Word Count**: 858
+**Word Count**: 895
 
 ## Personal Reflections
 Whilst the content of this module has been interesting, my ability to study for it has been challenged, mainly by the time of year. This is the first year my son has had a summer holiday from school, meaning I needed to try to balance work, university studies, and childcare/family activities. Traditionally, resources are stretched at work for similar reasons; colleagues also have family commitments during August and September, so there is increased annual leave and cross-cover to consider, so work pressures rise. 
 
 Overall, I think my ability to balance competing demands has been successful. However, when I was able to take leave from work, the rest obtained on family holidays was countered by the stress of catching up with work and University; there have been many late nights preparing assignments for submission.
+
+Further exacerbating these issues was in the second to last week of the module, my wife underwent surgery, adding yet more conflicting demands. I need to be more aware of what support options are available to manage these situations such as this, and this is probably an appropriate reason to ask for extenuating circumstances.  
 
 Moving forward, time management will need to be improved. Better communication with my family over what my other commitments are, and how best to plan activities together, while still doing what is required for both University and Work. 
 
