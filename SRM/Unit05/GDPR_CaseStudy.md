@@ -10,7 +10,7 @@ There are several case studies from 2014 – 2018 concerning GDPR related issues
 - How was it resolved?
 - If this was your organisation what steps would you take as an Information Security Manager to mitigate the issue?
 
-### Chosen case:
+## Chosen case:
 **Case 5** from 2017: "Disclosure of sensitive personal data by a hospital to a third party"
 
 **What Happened:** Due to a number of seemingly innocuous errors, a patients medical records were sent to the patients neighbour. 
