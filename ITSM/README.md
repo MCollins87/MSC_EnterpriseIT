@@ -1,5 +1,7 @@
 # IT Service Management
 
+Overall Grade: 85%
+
 ## Module Aims
 
 - An understanding of the concepts of information technology service management (ITSM).
@@ -22,3 +24,9 @@
 ## Assignment 1
 [Design and Demonstration of Configuration Management Database (CMDB) for IT Security Management](./Assignment1/Assignment1Brief.md)
 
+Grade: 60%
+
+## Assignment 2
+[Implementation and Demonstration of Content Management Database (CMDB)](./Assignment2/Assignment2Brief.md)
+
+Grade: 85%
