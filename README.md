@@ -49,3 +49,22 @@ This repository is for all assessments for the MSc in Enterprise IT Management a
 - An appreciation for current and future challenges, limitations, and opportunities in this field.
 - The ability to present critical arguments for specific actions or outcomes to a diverse audience.
 - The opportunity to reflect on and evaluate their personal development.
+
+
+## [Module 6: Into Data Science April 2025](./IDS/Readme.md)
+### Module Aims
+- Critically evaluate concepts underlying BI (Business Intelligence) Tools and their impact on digesting varied data sources and formats for driving enterprise-based systems.
+- Develop knowledge and understanding of fundamental concepts underlying the use and application of reporting systems/dashboards.
+- Develop an ethos of continuous professional development in the area of data science that enables the students to critically evaluate and manage an effective data science system using Business Intelligence Tools.
+- Develop an understanding of the stakeholders’ perspective - consolidation of data sources, data preparation and aligning data to business objectives and goals.
+- Develop an understanding of the management of data policies and regulatory frameworks key to enforcing data compliance in an organisation.
+
+## [Module 7: Cloud Operations Management July 2025](./COM/README.md)
+### Module Aims
+
+- An understanding of the architecture and framework for cloud computing and the fundamentals of cloud services.
+- Knowledge of a variety of cloud computing technologies and approaches, as well as some practical sustainable implementation experience Information about several cloud services, such as hybrid, edge, and fog computing.
+- An opportunity for self-reflection and the evaluation of personal improvement and the ethical, social and professional impact of Cloud principles and techniques.
+- Recognition of current and future issues, restrictions, and prospects within this domain.
+- Competence in crafting persuasive arguments for specific actions or results to a variety of audiences.
+- An understanding of how Cloud principles and techniques impact equality, diversity and inclusion in the workplace.
