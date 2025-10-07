@@ -18,8 +18,8 @@
 [Unit 5](./Unit5.md)
 [Unit 6]
 [Unit 7]
-[Unit 8]
-[Unit 9]
+[Unit 8](./Unit8.md)
+[Unit 9](./Unit9.md)
 [Unit 10]
 [Unit 21]
 [Unit 12]
