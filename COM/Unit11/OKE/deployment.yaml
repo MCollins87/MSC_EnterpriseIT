@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: image-recognition
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: image-recognition
+  template:
+    metadata:
+      labels:
+        app: image-recognition
+    spec:
+      containers:
+      - name: image-recognition
+        image: uk-london-1.ocir.io/lriejvhhbyfh/image-recognition:latest
+        ports:
+        - containerPort: 5000
+      imagePullSecrets:
+      - name: ocirsecret
