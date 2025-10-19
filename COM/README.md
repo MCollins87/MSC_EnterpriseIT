@@ -18,11 +18,11 @@ In a production environment, expanding this setup to include offsite replication
 
 
 ## Formative Activities
-[Unit 1](./Unit1.md)
-[Unit 2](./Unit2.md)
-[Unit 3](./Unit3.md)
-[Unit 4](./Unit4.md)
-[Unit 5](./Unit5.md)
-[Unit 8](./Unit8.md)
-[Unit 9](./Unit9.md)
-[Unit 11](./Unit11.md)
+- [Unit 1](./Unit1.md)
+- [Unit 2](./Unit2.md)
+- [Unit 3](./Unit3.md)
+- [Unit 4](./Unit4.md)
+- [Unit 5](./Unit5.md)
+- [Unit 8](./Unit8.md)
+- [Unit 9](./Unit9.md)
+- [Unit 11](./Unit11.md)
