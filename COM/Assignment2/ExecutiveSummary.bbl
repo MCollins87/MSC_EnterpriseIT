@@ -1,0 +1,95 @@
+\begin{thebibliography}{13}
+\newcommand{\enquote}[1]{`#1'}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem[{Aldea \textit{et~al.}(2018)Aldea, Kusumaningrum, Iacob and
+  Daneva}]{aldea2018}
+Aldea, Adina, Kusumaningrum, Marcella~Cindy, Iacob, Maria~Eugenia and Daneva,
+  Maya (2018) \enquote{Modeling and {{Analyzing Digital Business Ecosystems}}:
+  {{An Approach}} and {{Evaluation}},} in \enquote{2018 {{IEEE}} 20th
+  {{Conference}} on {{Business Informatics}} ({{CBI}}),} vol.~02, pp. 156--163,
+  \urlprefix\url{http://dx.doi.org/10.1109/CBI.2018.10064}
+
+\bibitem[{Alkhatib \textit{et~al.}(2025)Alkhatib, Shaheen and
+  Albustanji}]{alkhatib2025}
+Alkhatib, Ahmad, Shaheen, Ameen and Albustanji, Rand~N (2025) \enquote{A
+  {{Comparative Analysis}} of {{Cloud Computing Services}}: {{AWS}}, {{Azure}},
+  and {{GCP}},} \textit{International Journal of Computing and Digital
+  Systems}, 18(1), pp. 1--15,
+  \urlprefix\url{http://dx.doi.org/10.12785/ijcds/1571111846}
+
+\bibitem[{Altemimi and Alasadi(2022)}]{altemimi2022}
+Altemimi, Mayasim A.~Abdulkadim and Alasadi, Abbas H.~Hassin (2022)
+  \enquote{Ecommerce based on {{Cloud Computing}}: {{The Art}} of {{State}},}
+  \textit{European Journal of Information Technologies and Computer Science},
+  2(5), pp. 1--7,
+  \urlprefix\url{http://dx.doi.org/10.24018/compute.2022.2.4.59}
+
+\bibitem[{Bialkova and Barr(2022)}]{bialkova2022}
+Bialkova, Svetlana and Barr, Chloe (2022) \enquote{Virtual {{Try-On}}: {{How}}
+  to {{Enhance Consumer Experience}}?} in \enquote{2022 {{IEEE Conference}} on
+  {{Virtual Reality}} and {{3D User Interfaces Abstracts}} and {{Workshops}}
+  ({{VRW}}),} pp. 01--08,
+  \urlprefix\url{http://dx.doi.org/10.1109/VRW55335.2022.00059}
+
+\bibitem[{Borra(2024)}]{borra2024a}
+Borra, Praveen (2024) \enquote{Impact and {{Innovations}} of {{Azure IoT}}:
+  {{Current Applications}}, {{Services}}, and {{Future Directions}},}
+  \textit{International Journal of Recent Technology and Engineering (IJRTE)},
+  13(2), pp. 21--26,
+  \urlprefix\url{http://dx.doi.org/10.35940/ijrte.B8111.13020724}
+
+\bibitem[{Chuprikov \textit{et~al.}(2025)Chuprikov, Eugster and
+  Mangipudi}]{chuprikov2025a}
+Chuprikov, Pavel, Eugster, Patrick and Mangipudi, Shamiek (2025)
+  \enquote{Security {{Policy}} as {{Code}},} \textit{IEEE Security \& Privacy},
+  23(2), pp. 23--31,
+  \urlprefix\url{http://dx.doi.org/10.1109/MSEC.2025.3535803}
+
+\bibitem[{Decan \textit{et~al.}(2022)Decan, Mens, Mazrae and
+  Golzadeh}]{decan2022}
+Decan, Alexandre, Mens, Tom, Mazrae, Pooya~Rostami and Golzadeh, Mehdi (2022)
+  \enquote{On the {{Use}} of {{GitHub Actions}} in {{Software Development
+  Repositories}},} in \enquote{2022 {{IEEE International Conference}} on
+  {{Software Maintenance}} and {{Evolution}} ({{ICSME}}),} pp. 235--245,
+  \urlprefix\url{http://dx.doi.org/10.1109/ICSME55016.2022.00029}
+
+\bibitem[{Gupta(2024)}]{gupta2024}
+Gupta, Divit (2024) \textit{The {{Cloud Computing Journey}}}, 1st ed., Packt
+  Publishing, Birmingham
+
+\bibitem[{Jayaram \textit{et~al.}(2024)Jayaram, Sankiti, Sughaturu~Krishnappa,
+  Veerapaneni and Carimireddy}]{jayaram2024}
+Jayaram, Vivekananda, Sankiti, Srivenkateswara~Reddy, Sughaturu~Krishnappa,
+  Manjunatha, Veerapaneni, Prema~Kumar and Carimireddy, Pavan~Kumar (2024)
+  \enquote{Accelerated {{Cloud Infrastructure Development Using Terraform}},}
+  \textit{Journal of Emerging Technologies and Innovative Research}, 11(9),
+  \urlprefix\url{http://dx.doi.org/10.2139/ssrn.5081992}
+
+\bibitem[{{Nugget}(2025)}]{nugget2025}
+{Nugget} (2025) \enquote{Nugget \& {{Co}},} https://nuggetandco.co.uk/
+
+\bibitem[{Perumal(2025)}]{perumal2025}
+Perumal, Radhakrishnan~Arikrishna (2025) \enquote{Optimizing {{Cloud
+  Scalability}}: {{Advanced Architectures}} in {{Azure}} for {{High-performance
+  Applications}},} \textit{International Journal For Multidisciplinary
+  Research}, 7(1), p. 35818,
+  \urlprefix\url{http://dx.doi.org/10.36948/ijfmr.2025.v07i01.35818}
+
+\bibitem[{{Praveen Borra}(2024)}]{praveenborra2024}
+{Praveen Borra} (2024) \enquote{Securing {{Cloud Infrastructure}}: {{An
+  In-Depth Analysis}} of {{Microsoft Azure Security}},} \textit{International
+  Journal of Advanced Research in Science, Communication and Technology}, 4(2),
+  pp. 549--555, \urlprefix\url{http://dx.doi.org/10.48175/IJARSCT-18863}
+
+\bibitem[{Verdet \textit{et~al.}(2025)Verdet, Hamdaqa, Silva and
+  Khomh}]{verdet2025}
+Verdet, Alexandre, Hamdaqa, Mohammad, Silva, Leuson~Da and Khomh, Foutse (2025)
+  \enquote{Assessing the adoption of security policies by developers in
+  terraform across different cloud providers,} \textit{Empirical Software
+  Engineering}, 30(3), p.~74,
+  \urlprefix\url{http://dx.doi.org/10.1007/s10664-024-10610-0}
+
+\end{thebibliography}

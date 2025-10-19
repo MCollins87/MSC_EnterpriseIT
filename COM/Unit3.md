@@ -36,6 +36,6 @@ Depending on context, both CloudFormation and Terraform are both strong contende
 If vendor lock-in is less of a concern, and support for latest features and ease of scaling are important, then AWS CloudFormation is a superior choice if AWS is the only cloud service being used. However, if vendor lock-in is a concern, or due to regulatory requirements a hybrid cloud approach is required, then Terraform is the superior choice. 
 
 ### References
-Bavadiya, P. (2021) ‘OPTIMIZING CLOUD INFRASTRUCTURE DEPLOYMENTS USING INFRASTRUCTURE AS CODE: A COMPARATIVE STUDY OF TERRAFORM AND CLOUDFORMATION’, _International Journal of Innovation Studies_ [Preprint].
+Bavadiya, P. (2021) ‘OPTIMIZING CLOUD INFRASTRUCTURE DEPLOYMENTS USING INFRASTRUCTURE AS CODE: A COMPARATIVE STUDY OF TERRAFORM AND CLOUDFORMATION’, _International Journal of Innovation Studies_, 5(1).
 
 Spitzenbuerger, C. and Dinu, F. (2025) _Terraform vs. AWS CloudFormation - Ultimate Comparison_, _Spacelift_. Available at: [https://spacelift.io/blog/[slug]](https://spacelift.io/blog/[slug]) (Accessed: 20 September 2025).
