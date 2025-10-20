@@ -13,6 +13,7 @@ In groups of 3-4, students are to select a specific cloud infrastructure framewo
 - Infrastructure Design: Outline the steps for designing a basic infrastructure using the chosen framework, including key components (compute, storage, networking).
 - Case Study or Real-World Example: Provide a real-world example where this framework was used and evaluate its impact on organisational efficiency and cost.
 
+[**Submitted Assignment**](./Azure_ARM_Coursework_Report_Submission_Group A.pdf)
 
 ## My contribution
 
