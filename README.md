@@ -68,3 +68,12 @@ This repository is for all assessments for the MSc in Enterprise IT Management a
 - Recognition of current and future issues, restrictions, and prospects within this domain.
 - Competence in crafting persuasive arguments for specific actions or results to a variety of audiences.
 - An understanding of how Cloud principles and techniques impact equality, diversity and inclusion in the workplace.
+
+
+## [Module 8: Research Methods and Professional Practice October 2025 B](./RMPP/README.md)
+### Module Aims
+
+- Acquire the ability to study and reflect on key principles and methods in research based on the scientific method and relevant to various disciplines.
+- Acquire the ability to examine various research strategies and designs as applicable to projects at hand.
+- Acquire the ability to develop research competencies, in particular those relating to the collection and analysis of data types to enable a critical design and evaluation of independent research.
+- Have the opportunity to take a reflective and independent approach to the learning process.
