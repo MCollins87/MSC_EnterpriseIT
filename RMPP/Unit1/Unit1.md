@@ -14,8 +14,8 @@ Two core types of reasoning are introduced: **Deductive** and **Inductive** Reas
 ## Ethics in Computing
 Two formative activities cover the subject of Ethics in computing. 
 
-1. [Ethics in Computing in the age of Generative AI]
-2. [Collaborative Discussion - Case Study]
+1. [Ethics in Computing in the age of Generative AI](./EthicsAndAI.md)
+2. [Collaborative Discussion - Case Study](./ColabDiscussion_Initial.md)
 
 ## Literature Review choices
 
