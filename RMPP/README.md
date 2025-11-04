@@ -10,7 +10,7 @@
 ## Formative Activities
 
 - [Unit 1](./Unit1/Unit1.md)
-- [Unit 2]
+- [Unit 2](./Unit2/Unit2.md)
 - [Unit 3]
 - [Unit 4]
 - [Unit 5]
