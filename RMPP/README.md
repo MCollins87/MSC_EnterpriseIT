@@ -14,7 +14,7 @@
 - [Unit 3](./Unit3/Unit3.md)
 - [Unit 4](./Unit4/Unit4.md)
 - [Unit 5](./Unit5/Unit5.md)
-- [Unit 6]
+- [Unit 6](./Unit6/Unit6.md)
 - [Unit 7]
 - [Unit 8]
 - [Unit 9]
@@ -24,6 +24,6 @@
 
 ## Summative Assignments
 
-- [Literature Review]
+- [Literature Review](./Assignment1/LitRev.pdf)
 - [Research Proposal Presentation]
 - [Portfolio and Reflection]
