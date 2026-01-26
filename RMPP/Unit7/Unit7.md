@@ -11,9 +11,9 @@ Instead of estimating some population value of interest that underlies the data,
 These are all techniques we can employ to find patterns and meaning from our data.
 
 ## Formative Activities
-- [Summary Measures Worksheet](./SummaryMWS.md)
-- [Hypothesis Testing Worksheet](./HypothesisWS.md)
+1. [Summary Measures Worksheet](./SummaryMWS.md)
+2. [Hypothesis Testing Worksheet](./HypothesisWS.md)
 
 ## Summative Assessment
 
-[Assignment 1](../Assignment1/LitRev.pdf) is due this week. 
+[Assignment 1: Literature Review](../Assignment1/LitRev.pdf) is due this week. 

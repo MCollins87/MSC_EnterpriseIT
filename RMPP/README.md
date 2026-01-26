@@ -15,15 +15,15 @@
 - [Unit 4](./Unit4/Unit4.md)
 - [Unit 5](./Unit5/Unit5.md)
 - [Unit 6](./Unit6/Unit6.md)
-- [Unit 7]
-- [Unit 8]
-- [Unit 9]
-- [Unit 10]
-- [Unit 11]
-- [Unit 12]
+- [Unit 7](./Unit7/Unit7.md)
+- [Unit 8](./Unit8/Unit8.md)
+- [Unit 9](./Unit9/Unit9.md)
+- [Unit 10](./Unit10/Unit10.md)
+- [Unit 11](./Unit11/Unit11.md)
+- [Unit 12](./Unit12/Unit12.md)
 
 ## Summative Assignments
 
 - [Literature Review](./Assignment1/LitRev.pdf)
-- [Research Proposal Presentation]
-- [Portfolio and Reflection]
+- [Research Proposal Presentation](./Assignment2/Research_Proposal_Presentation_MCollins.pptx)
+- [Portfolio and Reflection](./Unit12/Reflection.md)
