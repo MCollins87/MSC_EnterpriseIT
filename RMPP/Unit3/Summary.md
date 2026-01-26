@@ -1,5 +1,7 @@
 [Back to Unit overview](./Unit3.md)
 
+## Summary Post
+
 Farhad, Abdulrahman, and Mustafa,
 
 Thank you all for your responses and insightful input. There appears to be a theme in a number of these case studies, which agrees with previous ethics training I have received, and that is "The cover-up is worse than the crime".
@@ -10,9 +12,9 @@ Over the last 15 years, I have personally seen how legislation and standards hav
 
 DCB0129 (2018) and DCB0160 (2018) provide mechanisms for managing risk, and the Clinical Safety File provides a clear method of communication from the manufacturer to the clinical end user. It is this communication that stands out as the application of ethics. Software engineers are human, and mistakes will be made. It is how these mistakes are handled that shows true ethical practice. This principle can be applied to many of the BCS (2021) standards, in particular "The Duty to Relevant Authority".
 
-References
+## References
 
-BCS (2021) BCS Code of Conduct for members - Ethics for IT professionals | BCS. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct (Accessed: 20 October 2025).
+BCS (2021) BCS Code of Conduct for members - Ethics for IT professionals / BCS. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct (Accessed: 20 October 2025).
 
 DCB0129 (2018) DCB0129: Clinical Risk Management: its Application in the Manufacture of Health IT Systems, DCB 0129.
 
