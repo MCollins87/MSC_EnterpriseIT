@@ -21,4 +21,4 @@ With these tweaks, the NSS could better capture staff experiences and drive mean
 ### References
 Likert, R. (1932) ‘A technique for the measurement of attitudes’, _Archives of Psychology_, (140), pp. 1–55.
 
-NHS (2025) _Survey documents related to conducting the survey | NHS Staff Survey_. Available at: [https://www.nhsstaffsurveys.com/survey-documents/](https://www.nhsstaffsurveys.com/survey-documents/) (Accessed: 20 November 2025).
+NHS (2025) _Survey documents related to conducting the survey / NHS Staff Survey_. Available at: [https://www.nhsstaffsurveys.com/survey-documents/](https://www.nhsstaffsurveys.com/survey-documents/) (Accessed: 20 November 2025).
