@@ -59,6 +59,6 @@ This is where the more prescriptive nature of the ACM has its advantages. The co
 
 ACM (2018) _ACM Code of Ethics and Professional Conduct_. Available at: [https://www.acm.org/code-of-ethics](https://www.acm.org/code-of-ethics) (Accessed: 24 October 2025).
 
-BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals | BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
+BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals / BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
 
 Gstrein, O.J. and Zwitter, A.J. (2021) ‘Extraterritorial application of the GDPR: Promoting European values or power?’, _Internet Policy Review_, 10(3), pp. 1–30. Available at: [https://doi.org/10.14763/2021.3.1576](https://doi.org/10.14763/2021.3.1576).
