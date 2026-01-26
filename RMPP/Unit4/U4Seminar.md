@@ -71,10 +71,10 @@ Ethical issues:
 ## References
 ACM (2018) _ACM Code of Ethics and Professional Conduct_. Available at: [https://www.acm.org/code-of-ethics](https://www.acm.org/code-of-ethics) (Accessed: 24 October 2025).
 
-BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals | BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
+BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals / BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
 
 GDPR (2016) _General Data Protection Regulation (GDPR) – Legal Text_, _General Data Protection Regulation (GDPR)_. Available at: [https://gdpr-info.eu/](https://gdpr-info.eu/) (Accessed: 20 November 2025).
 
 Information Commissioner’s Office (2025) _What are the research provisions?_ ICO. Available at: [https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/the-research-provisions/what-are-the-research-provisions/](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/the-research-provisions/what-are-the-research-provisions/) (Accessed: 20 November 2025).
 
-U.S. Department of Health and Human Services (2008) _Summary of the HIPAA Privacy Rule | HHS.gov_. Available at: [https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html) (Accessed: 20 November 2025).
+U.S. Department of Health and Human Services (2008) _Summary of the HIPAA Privacy Rule / HHS.gov_. Available at: [https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html) (Accessed: 20 November 2025).
