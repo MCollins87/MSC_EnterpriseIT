@@ -42,7 +42,7 @@ ACM (2018) _ACM Code of Ethics and Professional Conduct_. Available at: [https:/
 
 ACM (no date) _Case Study: Automated Active Response Weaponry_. Available at: [https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry](https://www.acm.org/code-of-ethics/case-studies/automated-active-response-weaponry) (Accessed: 28 October 2025).
 
-BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals | BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
+BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals / BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
 
 Department for Business Innovation & Skills (2015) _Whistleblowing: Guidance for Employers and Code of Practice_. Available at: https://assets.publishing.service.gov.uk/media/5a819ef5e5274a2e87dbe9e3/bis-15-200-whistleblowing-guidance-for-employers-and-code-of-practice.pdf (Accessed: 28 October 2025)
 
