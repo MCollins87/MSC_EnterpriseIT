@@ -17,9 +17,9 @@ ACM (2018) _ACM Code of Ethics and Professional Conduct_. Available at: [https:/
 
 ACM (no date) _Case Study: Medical Implant Risk Analysis_. Available at: [https://www.acm.org/code-of-ethics/case-studies/medical-implant-risk-analysis](https://www.acm.org/code-of-ethics/case-studies/medical-implant-risk-analysis) (Accessed: 25 October 2025).
 
-BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals | BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
+BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals / BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
 
-Medicines & Healthcare products Regulatory Agency (no date) _Yellow Card | Making medicines and medical devices safer_. Available at: [https://yellowcard.mhra.gov.uk/](https://yellowcard.mhra.gov.uk/) (Accessed: 25 October 2025).
+Medicines & Healthcare products Regulatory Agency (no date) _Yellow Card / Making medicines and medical devices safer_. Available at: [https://yellowcard.mhra.gov.uk/](https://yellowcard.mhra.gov.uk/) (Accessed: 25 October 2025).
 
 NHS England (2018a) ‘DCB0129: Clinical Risk Management: its Application in the Manufacture of Health IT Systems’. NHS Digital.
 
