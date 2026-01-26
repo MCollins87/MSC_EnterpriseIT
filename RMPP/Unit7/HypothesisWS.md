@@ -181,6 +181,7 @@ Consider the bank cardholder data of Data Set C Superplus. Open the Excel workbo
 Assuming the data to be suitably distributed, complete an appropriate test of whether the population mean income for males exceeds that of females and interpret your findings. What assumptions underpin the validity of your analysis, and how could you validate them? 
 
 #### Results
+
 |                       |                     |                  |
 | --------------------- | ------------------- | ---------------- |
 | F-test                |                     |                  |
