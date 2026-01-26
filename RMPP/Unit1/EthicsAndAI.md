@@ -68,7 +68,7 @@ Coelho, P. _et al._ (2023) ‘Industry 5.0: The Arising of a Concept’, _Proced
 
 Corrêa, N.K. _et al._ (2023) ‘Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance’, _Patterns_, 4(10). Available at: [https://doi.org/10.1016/j.patter.2023.100857](https://doi.org/10.1016/j.patter.2023.100857).
 
-Deckard, R. (2023) _What are ethics in AI? | BCS_. Available at: [https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/](https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/) (Accessed: 20 October 2025).
+Deckard, R. (2023) _What are ethics in AI? / BCS_. Available at: [https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/](https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/) (Accessed: 20 October 2025).
 
 European Union (2021) _Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS_. Available at: [https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206) (Accessed: 22 October 2025).
 
