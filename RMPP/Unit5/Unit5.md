@@ -23,4 +23,4 @@ We will also introduce pre-testing and post-testing methods which can be used wi
 ## Formative Activities
 
 1. [Case Study: Inappropriate Use of Surveys](./SurveyCase.md)
-2. [Wiki Activity: Qiestionnaires](./WikiPost.md)
+2. [Wiki Activity: Questionnaires](./WikiPost.md)
