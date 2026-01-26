@@ -12,19 +12,17 @@ Another important topic is the presentation of data – visualisation. In a time
 
 As suggested by Microsoft in 2023:
 
-    Dashboards connect all kinds of different metrics, data sources, APIs, and services to help companies extract relevant information from those sources and display it in user-friendly ways. Like a car’s dashboard, data dashboards organize and display important information at a glance to help you understand your company’s most valuable data and unearth answers to crucial questions. By connecting dashboards to specific metrics or key performance indicators (KPIs), you gain vital business intelligence and the ability to dive deep into specific pieces of information to continually monitor success. Just like in a car, dashboards indicate how far along you are on your journey and how long it may take to get where you want to go.
+_Dashboards connect all kinds of different metrics, data sources, APIs, and services to help companies extract relevant information from those sources and display it in user-friendly ways. Like a car’s dashboard, data dashboards organize and display important information at a glance to help you understand your company’s most valuable data and unearth answers to crucial questions. By connecting dashboards to specific metrics or key performance indicators (KPIs), you gain vital business intelligence and the ability to dive deep into specific pieces of information to continually monitor success. Just like in a car, dashboards indicate how far along you are on your journey and how long it may take to get where you want to go._
 
 In this unit we shall:
-
-    Introduce the various ways to analyse, interpret and present results from qualitative data compared to quantitative data.
-    Discuss the advantages and drawbacks of each of these methods.
-    Introduce visualisation and business intelligence.
+- Introduce the various ways to analyse, interpret and present results from qualitative data compared to quantitative data.
+- Discuss the advantages and drawbacks of each of these methods.
+- Introduce visualisation and business intelligence.
 
 On completion of this unit you will be able to:
-
-    Understand the different types of analysis and how they may be useful for the data you have collected.
-    Understand the different charts available to present the different types of data you have obtained.
-    Identifying key elements in Dashboards.
+- Understand the different types of analysis and how they may be useful for the data you have collected.
+- Understand the different charts available to present the different types of data you have obtained.
+-  Identifying key elements in Dashboards.
 
 Data, whether qualitative or quantitative, will be a key part of any investigation you undertake. An important consideration is then how to present your findings in a way that communicates your message to the reader. Charts and graphs are a good way to present data, both qualitative and quantitative and are usually used to set the scene.
 
