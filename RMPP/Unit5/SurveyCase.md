@@ -24,7 +24,7 @@ ACM (2018) _ACM Code of Ethics and Professional Conduct_. Available at: [https:/
 
 Ball, K. (2010) ‘Workplace surveillance: an overview’, _Labor History_, 51(1), pp. 87–106. Available at: [https://doi.org/10.1080/00236561003654776](https://doi.org/10.1080/00236561003654776).
 
-BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals | BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
+BCS (2021) _BCS Code of Conduct for members - Ethics for IT professionals / BCS_. Available at: [https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct](https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct) (Accessed: 20 October 2025).
 
 BÎZGĂ, A. (2024) _From fun to data loss: the dark side of Facebook quizzes_, _Bitdefender_. Available at: [https://www.bitdefender.com/en-gb/blog/hotforsecurity/from-fun-to-data-loss-the-dark-side-of-facebook-quizzes](https://www.bitdefender.com/en-gb/blog/hotforsecurity/from-fun-to-data-loss-the-dark-side-of-facebook-quizzes) (Accessed: 20 November 2025).
 
