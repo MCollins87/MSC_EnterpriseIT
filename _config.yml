@@ -1,6 +1,13 @@
-title: Mark Collins Enterprise IT Management MSc.
-description: Portfolio of work completed for the MSc in Enterprise IT Management at University of Essex
-show_downloads: true
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-- jekyll-remote-theme 
+title: Mark Collins | MSc Enterprise IT Management
+
+description: >
+  Academic e-portfolio for the MSc Enterprise IT Management
+  programme at the University of Essex Online.
+
+url: "https://mcollins87.github.io"
+baseurl: "/MSC_EnterpriseIT"
+
+markdown: kramdown
+
+exclude:
+  - README.md
