@@ -1,3 +1,9 @@
+---
+layout: page
+title: Module 0 - Induction Compution
+subtitle: April 2024 | Non-assesed
+---
+
 # Induction Computing Module April 2024
 
 ## Assessment Details

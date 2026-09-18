@@ -14,8 +14,8 @@ The programme has covered enterprise technology strategy, risk and security, IT 
 
 ## Academic Modules
 
-### Module 1 — Introduction to Computing
-**April 2024**
+### Module 0 — Introduction to Computing
+**April 2024 | Non-assessed**
 
 Introduction to postgraduate online study, academic writing, critical thinking, reflective practice and research skills.
 
@@ -23,7 +23,7 @@ Introduction to postgraduate online study, academic writing, critical thinking, 
 
 ---
 
-### Module 2 — Launching into Enterprise IT Management
+### Module 1 — Launching into Enterprise IT Management
 **April 2024**
 
 Exploration of Enterprise IT, automation, digital information, emerging technologies, artificial intelligence and cyber security.
@@ -32,7 +32,7 @@ Exploration of Enterprise IT, automation, digital information, emerging technolo
 
 ---
 
-### Module 3 — Risk and Security Management
+### Module 2 — Risk and Security Management
 **July 2024**
 
 Critical analysis of information security risks, threats and vulnerabilities, including mitigation, governance and professional responsibilities.
@@ -41,7 +41,7 @@ Critical analysis of information security risks, threats and vulnerabilities, in
 
 ---
 
-### Module 4 — Information Technology Service Management
+### Module 3 — Information Technology Service Management
 **October 2024**
 
 Study of IT service management principles, processes, standards, requirements and the wider organisational impact of service delivery.
@@ -50,7 +50,7 @@ Study of IT service management principles, processes, standards, requirements an
 
 ---
 
-### Module 5 — Enterprise IT Project Management
+### Module 4 — Enterprise IT Project Management
 **January 2025**
 
 Application of project management principles to enterprise IT, including requirements, people management, governance and delivery.
@@ -59,7 +59,7 @@ Application of project management principles to enterprise IT, including require
 
 ---
 
-### Module 6 — Into Data Science
+### Module 5 — Into Data Science
 **April 2025**
 
 Business intelligence, reporting systems, dashboards, data preparation, regulatory frameworks and the use of data to support enterprise decision-making.
@@ -68,7 +68,7 @@ Business intelligence, reporting systems, dashboards, data preparation, regulato
 
 ---
 
-### Module 7 — Cloud Operations Management
+### Module 6 — Cloud Operations Management
 **July 2025**
 
 Cloud architectures, deployment models, cloud services, sustainable implementation and emerging approaches including hybrid, edge and fog computing.
@@ -77,7 +77,7 @@ Cloud architectures, deployment models, cloud services, sustainable implementati
 
 ---
 
-### Module 8 — Research Methods and Professional Practice
+### Module 7 — Research Methods and Professional Practice
 **October 2025**
 
 Research design, scientific methods, data collection and analysis, reflective practice and preparation for independent postgraduate research.
@@ -86,7 +86,8 @@ Research design, scientific methods, data collection and analysis, reflective pr
 
 ---
 
-## MSc Project
+## Module 8 - MSc Project
+**March 2026**
 
 The MSc programme culminated in an independent research project, bringing together enterprise IT architecture, data, systems design and research methods.
 

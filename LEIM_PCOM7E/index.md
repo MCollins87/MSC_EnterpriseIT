@@ -1,4 +1,9 @@
-# Launching into Enterprise IT Management April 2024
+---
+layout: page
+title: Module 1 - Launching into Enterprise IT Management
+subtitle: April-July 2024
+---
+
 
 ## Assessment 1: Collaberative Learning Question
 ### Brief
@@ -10,9 +15,9 @@ After the tutor has opened the discussion with a post, students are required to 
 
 From those posts, animation and leadership, application to the real world, and reflection will be assessed. The initial post should be labelled **'Initial Post'**, the two follow-up responses should be labelled as **'Peer Response 1'** and **'Peer Response 2'** and the summary post labelled as **'Summary Post'**. The initial post, two responses and summary will be judged according to all grading criteria.
 
-[Discussion Forum](https://www.my-course.co.uk/mod/forum/view.php?id=990721).
+[Discussion Forum](./Assessment1/ForumPost.md).
 
-## [Assessment 2: Individual Programming Excercise](Assessment2)
+## [Assessment 2: Individual Programming Excercise](./Assessment2/PythonSorting.pdf)
 ### Brief
 For this individual programming exercise you will be comparing programming languages. Your tutor will have already demonstrated a sort algorithm in two different languages during the seminar in Unit 4.
 
@@ -20,7 +25,7 @@ You are required to create a sort algorithm in Python that you can use to sort a
 
 In addition to the sort algorithm, you are also provided with a text file, called pidata.txt, that contains over a million individual integers, collected into sets. This is the file you need to process.
 
-## [Assessment 3: Individual Presentaion](Assessment3)
+## [Assessment 3: Individual Presentaion](./Assessment3/Reflective%20Presentation_.pptx)
 ### Brief
 You are tasked with developing a PowerPoint presentation (of up to 10 slides) that reflects on future technology/techniques and learning styles. In addition to your PowerPoint, you should also create a recording of your individual reflection (20 minutes in length) with a transcript.
 ### Question
